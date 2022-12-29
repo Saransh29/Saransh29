@@ -106,6 +106,4 @@
 
 <br>
 
-Credit: [Saransh Bibiyan](https://github.com/Saransh29)
-
 Last Edited on: 27/12/2022
