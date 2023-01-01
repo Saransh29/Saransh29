@@ -13,7 +13,7 @@
 
 - A passionate Self-taught Flutter Developer
 - Currently learning Web Development.
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1eaudO26-yM8fUYwleIiEFX3V3Imxkace/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1HoFKhSwfGAgFrrjNNiHzaUJVjr2IywGo/view?usp=sharing)
 
 <br><br>
 
