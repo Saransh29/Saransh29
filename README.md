@@ -11,9 +11,9 @@
 
 <br>
 
-- A passionate Self-taught Flutter Developer
-- Currently learning Web Development.
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1HoFKhSwfGAgFrrjNNiHzaUJVjr2IywGo/view?usp=sharing)
+- A passionate Self-taught Web Developer
+- Currently Experimenting with Nextjs , Typescript.
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://saransh.me/resume)
 
 <br><br>
 
