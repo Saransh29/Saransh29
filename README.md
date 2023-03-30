@@ -14,7 +14,7 @@
 - A passionate Self-taught Web Developer
 - Currently Experimenting with Nextjs , Typescript.
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://saransh.me/resume)
-- Checkout my latest [project](https://saransh.me/ai)
+- Checkout my latest [project](https://saransh.me/build)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
