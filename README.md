@@ -20,7 +20,7 @@
 
 ## My projects
 
-[Ai-Builder](https://www.ai-builder.live) - A web app that allows you to create websites in less than a minute.
+[Ai-Builder](https://www.ai-builder.live) - A web app that allows you to create and share websites in less than a minute.
 
 [OpenJourney](https://openjourney-next.vercel.app) - A web app to Generate an imaginative image through Stable Diffusion and share with others.
 
