@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Saransh! 👋</h1>
 
-<p align="center">MERN Developer, currently building   <a href="https://www.ai-builder.live">Ai-Builder</a></p>
+<p align="center">Software Developer</p>
 
 ## I work with this tech
 
