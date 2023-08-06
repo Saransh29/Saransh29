@@ -10,14 +10,12 @@
     <img src="https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,nextjs,flutter,tailwindcss,postgresql,firebase,linux" alt="Mongodb,Expressjs,React,nodejs,nextjs,flutter,Tailwindcss,Postgresql,Firebase,Linux" />
   </a>
 </p>
-<!--
-<! --  
+
 ## My stats
 <p align="center"><a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=Saransh29&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh29&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
 </a></p>
--->
 
 
 
