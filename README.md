@@ -25,8 +25,6 @@
 
 [OpenJourney](https://openjourney-next.vercel.app) - A web app to Generate an imaginative image through Stable Diffusion and share with others.
 
-[Agriman](https://agriman-web.pages.dev) - A flutter based modern Agriculture companion app that monitors reatilme crop stats, and control pump directly from the app.
-
 [Saransh.me](https://saransh.me) - My personal portfolio app built with NextJS, tailwindCSS.
 
 
